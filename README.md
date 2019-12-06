@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 欢迎来到我股票知识学习库
 
-You can use the [editor on GitHub](https://github.com/GZ315200/stock_learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+    在这里你可以学到基础的股票知识，以及拥有股票操作的技巧，和我一起成长吧。
+    我会不定期的更新我所学到股票相关的知识，大家敬请期待。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 教程导航
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 什么是通道线和拐点 [点击](./stock_doc/什么是通道线和拐点.md)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GZ315200/stock_learning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
