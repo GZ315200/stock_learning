@@ -11,8 +11,8 @@ v2ex : [https://www.v2ex.com/?r=gygesm123](https://www.v2ex.com/?r=gygesm123)
 - [什么是趋势中的形态](./stock_doc/什么是趋势中的形态.md)
 - [什么是M头，W底？什么是理查德.沙贝克的逆转与持续理论](./stock_doc/什么是M头W底什么是理查德沙贝克的逆转与持续理论.md)
 - [什么是亚当理论亚当心法](./stock_doc/什么是亚当理论亚当心法.md)
-
 - [什么是三重滤网系统](./stock_doc/什么是三重滤网系统.md)
+- [K线历史和画法以及其关键K线形成背后的原因](./stock_doc/K线历史和画法以及其关键K线形成背后的原因.md)
 
 
 
