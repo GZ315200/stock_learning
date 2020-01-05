@@ -15,6 +15,5 @@ v2ex : [https://www.v2ex.com/?r=gygesm123](https://www.v2ex.com/?r=gygesm123)
 - [什么是亚当理论亚当心法](./stock_doc/什么是亚当理论亚当心法.md)
 - [什么是三重滤网系统](./stock_doc/什么是三重滤网系统.md)
 - [K线历史和画法以及其关键K线形成背后的原因](./stock_doc/K线历史和画法以及其关键K线形成背后的原因.md)
-
-
+- [股票的PE是什么如何算市盈率](./stock_doc/股票的PE是什么如何算市盈率.md)
 

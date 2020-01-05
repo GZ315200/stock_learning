@@ -58,10 +58,13 @@ K线由四个信息，最高价位，收盘价，开盘价，最低价位，如�
 `还有十字孕线，也是这个意思`
 
 3. 反转
-
-
-
+[http://www.gpdkt.com/jishufenxi/Kxiantu/fanzhuan/19280.html](http://www.gpdkt.com/jishufenxi/Kxiantu/fanzhuan/19280.html), 可以点击此链接学习什么是V形反转
 4. 乌云盖顶
+[https://wiki.mbalib.com/wiki/%E4%B9%8C%E4%BA%91%E7%9B%96%E9%A1%B6](https://wiki.mbalib.com/wiki/%E4%B9%8C%E4%BA%91%E7%9B%96%E9%A1%B6), 可以点击此链接学习乌云盖顶形态
 
 
-- [上一页](./什么是三重滤网系统.md) [下一页](./什么是三重滤网系统.md)
+## 说在后面
+
+    因为K线对于中国来说是再熟悉不过了的，我这里就不在过多赘述，大家自行上网查阅。要记住一些核心K线的变化，但不要过多去迷信它，因为任何技术的都是预测，而预测只是概率的问题。
+
+- [上一页](./什么是三重滤网系统.md) [下一页](./股票的PE是什么如何算市盈率.md)
